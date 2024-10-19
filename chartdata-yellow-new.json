@@ -95,7 +95,7 @@
       "artist": "Samantha Jade",
       "name": "Firestarter",
       "img": "https://i.scdn.co/image/ab67616d0000b273ee6e84798346c473527b376e",
-      "spotify": "https://open.spotify.com/embed/track/4FyyPGjdvNu3UMqnEUGIdx?utm_source=generator",
+      "spotify": "https://open.spotify.com/embed/track/4FyyPGjdvNu3UMqnEUGIdx?utm_source=generator"
       
     },
     {
@@ -200,12 +200,16 @@
     {
       "artist": "SIX Featuring Aimie Atkinson",
       "name": "All You Wanna Do",
-      "img": "https://i.scdn.co/image/ab67616d0000b27369cfe2a2218d791640e0142b"
+      "img": "https://i.scdn.co/image/ab67616d0000b27369cfe2a2218d791640e0142b",
+      "album": "Six: The Musical (Studio Cast Recording)",
+      "spotify": "https://open.spotify.com/embed/track/1U0hiOuodfSsxdcTYXGEdT?utm_source=generator"
     },
     {
       "artist": "CeeLo Green",
       "name": "F**k You! (Forget You)",
-      "img": "https://i.scdn.co/image/ab67616d0000b273a00f3f34ac0a2b472255bcb6"
+      "img": "https://i.scdn.co/image/ab67616d0000b273a00f3f34ac0a2b472255bcb6",
+      "album": "The Lady Killer",
+      "spotify": "https://open.spotify.com/embed/track/6zKMARmU2Ue50cucKnIUR6?utm_source=generator"
     },
     {
       "artist": "Meghan Trainor Featuring Teddy Swims",
@@ -217,22 +221,29 @@
     {
       "artist": "Dasha",
       "name": "What Happens Now?",
-      "img": "https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb"
+      "img": "https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb",
+      "album": "What Happens Now?",
+      "spotify": "https://open.spotify.com/embed/track/4cQ8Os8Gf1GgAkzoFQg8Az?utm_source=generator"
     },
     {
       "artist": "Teddy Swims",
       "name": "Funeral",
-      "img": "https://i.scdn.co/image/ab67616d00001e0257e4be14bc56b19ef784890d"
+      "img": "https://i.scdn.co/image/ab67616d00001e0257e4be14bc56b19ef784890d",
+      "spotify": "https://open.spotify.com/embed/track/6BmqySE91w6AUWvIxDHtqc?utm_source=generator"
     },
     {
       "artist": "Sabrina Carpenter",
       "name": "Espresso",
-      "img": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5"
+      "img": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5",
+      "album": "Short n' Sweet",
+      "spotify": "https://open.spotify.com/embed/track/2HRqTpkrJO5ggZyyK6NPWz?utm_source=generator"
     },
     {
       "artist": "Sabrina Carpenter",
       "name": "Feather",
-      "img": "https://i.scdn.co/image/ab67616d0000b27320bc45d92ee8e4e2097ed635"
+      "img": "https://i.scdn.co/image/ab67616d0000b27320bc45d92ee8e4e2097ed635",
+      "album": "emails i can't send fwd:",
+      "spotify": "https://open.spotify.com/embed/track/2Zo1PcszsT9WQ0ANntJbID?utm_source=generator"
     },
     {
       "artist": "CeeLo Green",
