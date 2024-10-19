@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f77cd5bd.css",
+    "main.js": "/static/js/main.007c5d18.js",
+    "static/js/453.c68fdbc0.chunk.js": "/static/js/453.c68fdbc0.chunk.js",
+    "static/media/NeueHaasDisplay-Bold.woff": "/static/media/NeueHaasDisplay-Bold.fff0d3314d5936828d51.woff",
+    "static/media/NeueHaasDisplay-Black.woff": "/static/media/NeueHaasDisplay-Black.952c6aa636a79022bdba.woff",
+    "static/media/NeueHaasDisplay-Roman.woff": "/static/media/NeueHaasDisplay-Roman.7e7a646f9aff78ddd67e.woff",
+    "index.html": "/index.html",
+    "main.f77cd5bd.css.map": "/static/css/main.f77cd5bd.css.map",
+    "main.007c5d18.js.map": "/static/js/main.007c5d18.js.map",
+    "453.c68fdbc0.chunk.js.map": "/static/js/453.c68fdbc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f77cd5bd.css",
+    "static/js/main.007c5d18.js"
+  ]
+}
