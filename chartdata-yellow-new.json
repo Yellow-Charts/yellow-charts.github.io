@@ -289,7 +289,9 @@
     {
       "artist": "Sabrina Carpenter",
       "name": "Taste",
-      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Sabrina_Carpenter_-_Taste.png"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Sabrina_Carpenter_-_Taste.png",
+      "album": "Short n' Sweet",
+      "spotify": "https://open.spotify.com/embed/track/5G2f63n7IPVPPjfNIGih7Q?utm_source=generator"
     },
     {
       "artist": "Teddy Swims",
@@ -308,12 +310,16 @@
     {
       "artist": "Teddy Swims",
       "name": "dose",
-      "img": "https://i.scdn.co/image/ab67616d0000b27395418aedda778c6855e978f1"
+      "img": "https://i.scdn.co/image/ab67616d0000b27395418aedda778c6855e978f1",
+      "album": "Sleep is Exhausting",
+      "spotify": "https://open.spotify.com/embed/track/26ETsbVhx34daSYeBGmvgl?utm_source=generator"
     },
     {
       "artist": "Jessie Murph Featuring Teddy Swims",
       "name": "Dirty",
-      "img": "https://i.scdn.co/image/ab67616d0000b273e094cf8d2eb370fb04f025c3"
+      "img": "https://i.scdn.co/image/ab67616d0000b273e094cf8d2eb370fb04f025c3",
+      "album": "That Ain't No Man That's The Devil",
+      "spotify": "https://open.spotify.com/embed/track/67aaig0zaaSzf8zPqSUoN4?utm_source=generator"
     },
     {
       "artist": "Teddy Swims",
@@ -325,77 +331,100 @@
     {
       "artist": "Chappell Roan",
       "name": "Good Luck, Babe!",
-      "img": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7"
+      "img": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+      "spotify": "https://open.spotify.com/embed/track/0WbMK4wrZ1wFSty9F7FCgu?utm_source=generator"
     },
     {
       "artist": "Teddy Swims",
       "name": "Bad Dreams",
-      "img": "https://i.scdn.co/image/ab67616d0000b273de4b0388cb6e5267132a07bc"
+      "img": "https://i.scdn.co/image/ab67616d0000b273de4b0388cb6e5267132a07bc",
+      "spotify": "https://open.spotify.com/embed/track/3nHuKdFJZm78CoeBnDcFKe?utm_source=generator"
     },
     {
       "artist": "Benson Boone",
       "name": "There She Goes",
-      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40"
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/4jWCFYhDAqOLClw5dFvk8O?utm_source=generator"
     },
     {
       "artist": "Benson Boone",
       "name": "Drunk in My Mind",
-      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40"
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/3OJIdGOHEzxY8V0CNCBBXc?utm_source=generator"
     },
     {
       "artist": "Benson Boone",
       "name": "Ghost Town",
-      "img": "https://i.scdn.co/image/ab67616d0000b273351638732d4bd958ae567ebc"
+      "img": "https://i.scdn.co/image/ab67616d0000b273351638732d4bd958ae567ebc",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/6HuHyXviAdpmnQu73JHfBz?utm_source=generator"
     },
     {
       "artist": "Benson Boone",
       "name": "Cry",
-      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40"
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/3h76tbaYIamSeJL81X7ZwI?utm_source=generator"
     },
     {
       "artist": "Benson Boone",
       "name": "What Do You Want",
-      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40"
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/5mAZafmZZGSsYHafV9n2i5?utm_source=generator"
     },
     {
       "artist": "Benson Boone",
       "name": "Be Someone",
-      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40"
+      "img": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+      "album": "Fireworks & Rollerblades",
+      "spotify": "https://open.spotify.com/embed/track/1j2iMeSWdsEP5ITCrZqbIL?utm_source=generator"
     },
     {
       "artist": "Tate McRae",
       "name": "greedy",
-      "img": "https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8"
+      "img": "https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8",
+      "album": "THINK LATER",
+      "spotify": "https://open.spotify.com/embed/track/4kfSXPK13aXkLzuz02hCSC?utm_source=generator"
     },
     {
       "artist": "The Weeknd",
       "name": "Dancing In The Flames",
-      "img": "https://i.scdn.co/image/ab67616d0000b273f0e9b93cadbeb4d0227a59eb"
+      "img": "https://i.scdn.co/image/ab67616d0000b273f0e9b93cadbeb4d0227a59eb",
+      "spotify": "https://open.spotify.com/embed/track/7z7kvUQGwlC6iOl7vMuAr9?utm_source=generator"
     },
     {
       "artist": "Elley Duhé & Teddy Swims",
-      "name": "Face Myself",
-      "img": "https://i.scdn.co/image/ab67616d0000b27350d399f799bed79de421b345"
+      "name": "FACE MYSELF",
+      "img": "https://i.scdn.co/image/ab67616d0000b27350d399f799bed79de421b345",
+      "spotify": "https://open.spotify.com/embed/track/2R5hXZrxhgwycn39rC0OdQ?utm_source=generator"
     },
     {
       "artist": "Switch Disco, Charlotte Haining & Felix",
       "name": "I FOUND YOU",
-      "img": "https://i.scdn.co/image/ab67616d0000b2737d7371892e93378921cfd80e"
+      "img": "https://i.scdn.co/image/ab67616d0000b2737d7371892e93378921cfd80e",
+      "spotify": "https://open.spotify.com/embed/track/06EtCEDJ762K9frHeSkJS5?utm_source=generator"
     },
     {
       "artist": "Coldplay, Little Simz, Burna Boy, Elyanna & Tini",
       "name": "WE PRAY",
-      "img": "https://i.scdn.co/image/ab67616d0000b2738009ae03e4e7d759a521c7e7"
+      "img": "https://i.scdn.co/image/ab67616d0000b2738009ae03e4e7d759a521c7e7",
+      "album": "Moon Music",
+      "spotify": "https://open.spotify.com/embed/track/7xrEnNo99wrmIs8ZK3RZMK?utm_source=generator"
     },
     {
       "artist": "Addison Rae",
       "name": "Diet Pepsi",
-      "img": "https://i.scdn.co/image/ab67616d0000b2734e5a5862355a5e953549292b"
+      "img": "https://i.scdn.co/image/ab67616d0000b2734e5a5862355a5e953549292b",
+     "spotify": "https://open.spotify.com/embed/track/6MzofobZt2dm0Kf1hTThFz?utm_source=generator"
     },
     {
       "artist": "Kendrick Lamar",
       "name": "Not Like Us",
-      "img": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad"
+      "img": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
+      "spotify": "https://open.spotify.com/embed/track/6AI3ezQ4o3HUoP6Dhudph3?utm_source=generator"
     }
   ],
   "weeks": [
@@ -685,7 +714,7 @@
         "Teddy Swims - dose",
         "Lady Gaga & Bruno Mars - Die With A Smile",
         "Teddy Swims - You Still Get to Me",
-        "Elley Duhé & Teddy Swims - Face Myself",
+        "Elley Duhé & Teddy Swims - FACE MYSELF",
         "Teddy Swims - What More Can I Say",
         "Switch Disco, Charlotte Haining & Felix - I FOUND YOU",
         "Jessie Murph Featuring Teddy Swims - Dirty",
@@ -714,7 +743,7 @@
       "songs": [
         "Lady Gaga & Bruno Mars - Die With A Smile",
         "Teddy Swims - Lose Control",
-        "Elley Duhé & Teddy Swims - Face Myself",
+        "Elley Duhé & Teddy Swims - FACE MYSELF",
         "Teddy Swims - dose",
         "The Weeknd - Dancing In The Flames",
         "Teddy Swims - You Still Get to Me",
@@ -745,7 +774,7 @@
       "songs": [
         "Anastacia - Not That Kind",
         "The Weeknd - Dancing In The Flames",
-        "Elley Duhé & Teddy Swims - Face Myself",
+        "Elley Duhé & Teddy Swims - FACE MYSELF",
         "Teddy Swims - Lose Control",
         "Lady Gaga & Bruno Mars - Die With A Smile",
         "Anastacia - Paid My Dues",
