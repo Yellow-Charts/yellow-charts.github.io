@@ -248,27 +248,36 @@
     {
       "artist": "CeeLo Green",
       "name": "Bright Lights Bigger City",
-      "img": "https://i.scdn.co/image/ab67616d0000b273731d4549d3586763ded1a5b9"
+      "img": "https://i.scdn.co/image/ab67616d0000b273731d4549d3586763ded1a5b9",
+      "album": "The Lady Killer",
+      "spotify": "https://open.spotify.com/embed/track/5d0cofFhhJVmH7ta0Qk1fm?utm_source=generator"
     },
     {
       "artist": "Dasha",
       "name": "Austin",
-      "img": "https://i.scdn.co/image/ab67616d00001e02a73f6a4f17c58becc885efe2"
+      "img": "https://i.scdn.co/image/ab67616d00001e02a73f6a4f17c58becc885efe2",
+      "album": "What Happens Now?",
+      "spotify": "https://open.spotify.com/embed/track/2uqYupMHANxnwgeiXTZXzd?utm_source=generator"
     },
     {
       "artist": "Sabrina Carpenter",
       "name": "Looking at Me",
-      "img": "https://i.scdn.co/image/ab67616d0000b273f22e1263704f24cb504700ea"
+      "img": "https://i.scdn.co/image/ab67616d0000b273f22e1263704f24cb504700ea",
+      "album": "Singular Act II",
+      "spotify": "https://open.spotify.com/embed/track/59tskctgqUmjCWAwhzYAFm?utm_source=generator"
     },
     {
       "artist": "Lady Gaga & Bruno Mars",
       "name": "Die With A Smile",
-      "img": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45"
+      "img": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+      "spotify": "https://open.spotify.com/embed/track/2plbrEY59IikOBgBGLjaoe?utm_source=generator"
     },
     {
       "artist": "Teddy Swims",
       "name": "You Still Get to Me",
-      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace"
+      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/4c1RuddayQTE5dpURdynD5?utm_source=generator"
     },
     {
       "artist": "Sabrina Carpenter",
@@ -283,12 +292,16 @@
     {
       "artist": "Teddy Swims",
       "name": "Some Things I'll Never Know",
-      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace"
+      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/3sXWFs0hku4tR5cy54PnRz?utm_source=generator"
     },
     {
       "artist": "Teddy Swims",
       "name": "What More Can I Say",
-      "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/c9/b1/6bc9b115-7b51-4538-ab8b-63dae6df38f1/054391443892.jpg/600x600bf-60.jpg"
+      "img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6b/c9/b1/6bc9b115-7b51-4538-ab8b-63dae6df38f1/054391443892.jpg/600x600bf-60.jpg",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/1MmNMaPzI1uZQS20RV88AT?utm_source=generator"
     },
     {
       "artist": "Teddy Swims",
@@ -303,7 +316,9 @@
     {
       "artist": "Teddy Swims",
       "name": "Last Communion",
-      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace"
+      "img": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "spotify": "https://open.spotify.com/embed/track/78OTnBQndIIfCswsAIBNFs?utm_source=generator"
     },
     {
       "artist": "Chappell Roan",
@@ -469,7 +484,7 @@
         "Benson Boone - Beautiful Things",
         "CeeLo Green - Bright Lights Bigger City",
         "Anastacia - I'm Outta Love",
-        "Dasha - Austin",
+        "Dasha - Austin (Boots Stop Workin')",
         "Dua Lipa - Houdini",
         "Anastacia - Not That Kind"
       ],
